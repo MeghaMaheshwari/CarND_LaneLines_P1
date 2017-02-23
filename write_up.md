@@ -1,17 +1,17 @@
 # Finding Lane Lines on the Road
 
 The goals / steps of this project are the following:
-* Detect lanes in single images ad mark them
+* Detect lanes in single images and mark them
 * Use this mechanism obtained for single image on a video stream and mark the lane
 
 For example :
 ##### Original Image
 
-	![Input Image][/images/solidWhiteCurve.jpg]
+	![Input Image][images/solidWhiteCurve.jpg]
     
 ##### Output Image
 
-	![Output Image][/images/route.png]
+	![Output Image][images/route.png]
     
 
 ### Detailed Description
