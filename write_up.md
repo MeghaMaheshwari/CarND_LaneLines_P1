@@ -7,11 +7,11 @@ The goals / steps of this project are the following:
 For example :
 ##### Original Image
 
-![Input Image][images/solidWhiteCurve.jpg]
+![Input Image](images/solidWhiteCurve.jpg)
     
 ##### Output Image
 
-![Output Image][images/route.png]
+![Output Image](images/route.png)
     
 
 ### Detailed Description
